@@ -52,7 +52,7 @@ and visit the following link on your web browser : http://127.0.0.1:5001/
 
 
 ### Contact :
-For any question, please contact
+For any query/feedback, please contact
 ```
 Lakshay Mehra: mehralakshay2@gmail.com
 ```
