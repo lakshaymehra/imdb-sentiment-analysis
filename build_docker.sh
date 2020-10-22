@@ -1,0 +1,1 @@
+docker build --tag sentiment_analysis_api .

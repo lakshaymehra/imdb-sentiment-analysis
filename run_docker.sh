@@ -1,0 +1,1 @@
+docker run --name sentiment_analysis_api -p 5001:5001 sentiment_analysis_api
